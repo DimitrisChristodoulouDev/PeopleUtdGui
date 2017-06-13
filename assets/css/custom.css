@@ -1,0 +1,14 @@
+/* Write your custom CSS here */
+.main-content {
+    width: 100% !important;
+	padding-top: 10px;
+}
+
+.my-center{
+    padding-left: 8.8%;
+}
+
+
+/*.side-nav-wrapper{
+    z-index: 999;
+}*/
